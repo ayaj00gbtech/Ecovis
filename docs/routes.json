@@ -1,0 +1,66 @@
+[
+  {
+    "route": "home",
+    "component": "HomePage"
+  },
+  {
+    "route": "itoi",
+    "component": "ItoiPage"
+  },
+  {
+    "route": "institutionalise",
+    "component": "InstitutionalisePage"
+  },
+  {
+    "route": "investable",
+    "component": "InvestablePage"
+  },
+  {
+    "route": "scale",
+    "component": "ScalePage"
+  },
+  {
+    "route": "studio-ai",
+    "component": "StudioAiPage"
+  },
+  {
+    "route": "products",
+    "component": "ProductsPage"
+  },
+  {
+    "route": "journey",
+    "component": "JourneyPage"
+  },
+  {
+    "route": "quick-diagnostic",
+    "component": "QuickDiagnosticPage"
+  },
+  {
+    "route": "grc-diagnostic",
+    "component": "GrcDiagnosticPage"
+  },
+  {
+    "route": "investability-report",
+    "component": "InvestabilityReportPage"
+  },
+  {
+    "route": "leadership",
+    "component": "LeadershipPage"
+  },
+  {
+    "route": "partner",
+    "component": "PartnerPage"
+  },
+  {
+    "route": "publications",
+    "component": "PublicationsPage"
+  },
+  {
+    "route": "case-studies",
+    "component": "CaseStudiesPage"
+  },
+  {
+    "route": "media",
+    "component": "MediaPage"
+  }
+]
